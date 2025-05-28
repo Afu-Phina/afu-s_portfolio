@@ -4,7 +4,7 @@ a name="readme-top"></a>
 
   <br/>
 
-  <h1><b>Phina Portfolio</b></h1>
+  <h1><b>Afu's Portfolio</b></h1>
 
 </div>
 
@@ -31,7 +31,7 @@ a name="readme-top"></a>
 
 A dynamic web application showcasing interactive features and responsive design, built with HTML, CSS, and JavaScript. This project highlights my skills in front-end development and user experience optimization.
 
-*[Phina Portfolio]* is a HTML CSS project
+*[Afu Portfolio]* is a HTML CSS project
 
 ## 🛠 Built With <a name="built-with"></a>
 
