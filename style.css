@@ -207,7 +207,7 @@
   }
 
   .similar_card h3 {
-    font-size: 32;
+    font-size: 32px;
   }
 
   .similar_card p {
@@ -345,7 +345,8 @@
 
   .abt_card ul li {
     font-size: 22px;
-    text-wrap: nowrap;
+
+    /* text-wrap: nowrap; */
   }
 
   /* CONTACT STYLING */
@@ -677,7 +678,7 @@
   }
 
   .similar_card h3 {
-    font-size: 32;
+    font-size: 32px;
   }
 
   .similar_card p {
@@ -815,7 +816,8 @@
 
   .abt_card ul li {
     font-size: 22px;
-    text-wrap: nowrap;
+
+    /* text-wrap: nowrap; */
   }
 
   /* CONTACT STYLING */
@@ -1158,7 +1160,7 @@
   }
 
   .similar_card h3 {
-    font-size: 32;
+    font-size: 32px;
   }
 
   .similar_card p {
@@ -1296,7 +1298,8 @@
 
   .abt_card ul li {
     font-size: 22px;
-    text-wrap: nowrap;
+
+    /* text-wrap: nowrap; */
   }
 
   /* CONTACT STYLING */
