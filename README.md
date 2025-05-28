@@ -66,7 +66,7 @@ Clone this repository to your desired folder:
 
 sh
   cd my-folder
-  git clone https://github.com/ngalamac/Hello-Codegisoft Academy.git
+  git clone https://github.com/Afu-Phina/afu-s_portfolio.git Academy.git
 
 
 ### Install
@@ -102,9 +102,9 @@ sh
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 *Ngala Mac*
+👤 *Abang Bi*
 
-- GitHub: [@ngalamac](https://github.com/ngalamac/Hello-Codegisoft Academy.git)
+- GitHub: [@Afu_phina]( https://github.com/Afu-Phina/afu-s_portfolio.git Academy.git)
 
  FUTURE FEATURES 
 
@@ -123,4 +123,4 @@ I will like to thank Codegisoft Academy and all the students i've collaborated w
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [LICENSE](./LICENSE.md) licensed.
